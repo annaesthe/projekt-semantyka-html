@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+            </head>
+<body>
+        <div id="outer">
+        <h2>Nagłówek</h2>
+        <p class="inner-class first">Tekst paragrafu 1</p>
+        <p class="inner-class">Tekst paragrafu 2</p>
+        <p class="inner-class">Tekst paragrafu 3</p>
+        <p class="inner-class">Tekst paragrafu 4</p>
+        <p class="inner-class">Tekst paragrafu 5</p>
+        <a href="#">Link</a>
+        <div id="inner">
+        <p class="inner-class">Kolejny paragraf</p>
+        <p class="inner-class">Kolejny paragraf</p>
+        </div>
+        </div>
+</body>
+</html>
