@@ -11,7 +11,7 @@ body {
 
 #menu .menu-item {
   display: inline-block;
-  padding: 25px;
+  width: 100%;
   list-style: none;
 }
 
@@ -80,10 +80,12 @@ body {
 #contact #contact-content {
   text-align: center;
   color: #fff;
+  font-style: normal;
 }
 
 #contact #contact-content a {
   color: #fff;
+  font-style: normal;
 }
 
 #contact #contact-content a:hover {
